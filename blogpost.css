@@ -36,6 +36,6 @@ p {
   padding: 30px;
 }
 
-p.ex1{
+.ex1{
    max-width: 700px;
 }
