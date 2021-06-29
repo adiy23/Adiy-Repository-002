@@ -1,0 +1,41 @@
+img {
+  width: 500px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 46px;
+  font-family: Cinzel, Serif;
+  font-weight: 900;
+  color: #414141;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: PT Serif, Serif;
+
+  font-size: 20px;
+  color: #7d7d7d;
+  margin-bottom: 50px;
+  margin-top: 0px;
+}
+
+a {
+  color: #ff8000;
+}
+
+.wrapper {
+  width: 500px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+p {
+  font-family: PT Serif, Serif;
+  color: #5b5b5b;
+  font-size: 15px;
+}
