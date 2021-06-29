@@ -5,7 +5,7 @@ h2 {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 64px;
   font-family: Cinzel, Serif;
   font-weight: 900;
   color: #414141;
@@ -35,8 +35,7 @@ a {
 p {
   font-family: PT Serif, Serif;
   color: #5b5b5b;
-  font-size: 15px;
-  text-align: center;
+  font-size: 17px;
 }
 
 
