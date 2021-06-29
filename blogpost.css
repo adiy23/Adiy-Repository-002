@@ -1,6 +1,4 @@
-img {
-  width: 500px;
-}
+
 
 h1,
 h2 {
@@ -30,7 +28,7 @@ a {
 }
 
 .wrapper {
-  width: 500px;
+  width: max width;
   margin: 0 auto;
   padding: 30px;
 }
